@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from setuptools import setup, find_packages
-from home import __version__
+from divio_wagtail_home import __version__
 
 
 setup(
